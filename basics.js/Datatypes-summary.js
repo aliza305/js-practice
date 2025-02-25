@@ -33,3 +33,8 @@ let myObj = {
 const myFunction = function(){
     console.log("Hello world")
 }
+
+
+/*Two types of memory 
+1: stack memory used in primitive datatypes
+2: Heak memory used in heak datatypes*/

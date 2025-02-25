@@ -11,3 +11,4 @@ console.log(str3);
 let gameCounter = 1000
 gameCounter++;
 console.log(gameCounter);
+
